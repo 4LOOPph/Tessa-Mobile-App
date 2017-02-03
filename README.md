@@ -36,3 +36,10 @@
  - Compare (Product Comparison)
  - Cart Support
  - Quote Generation
+
+
+----------
+**Versioning Note**:
+- pre-release application versioning **v1.0.0-beta.01** (Date)
+- release candidate versioning **v1.0.0-RC.1** (Date)
+- release for production versioning **v1.0.0**
