@@ -15,6 +15,19 @@
 ![enter image description here](https://s30.postimg.org/f4q547z1d/icons_banner.png)
 
 ----------
+# Screenshots
+
+**Desktop App and Web App**
+----------
+
+[<img alt='Ionic Creator' src="https://raw.githubusercontent.com/4LOOPph/tessa-app/master/build/1.png">](https://github.com/4LOOPph/tessa-app/releases)
+
+[<img alt='Ionic Creator' src="https://raw.githubusercontent.com/4LOOPph/tessa-app/master/build/2.png">](https://github.com/4LOOPph/tessa-app/releases)
+
+[<img alt='Ionic Creator' src="https://raw.githubusercontent.com/4LOOPph/tessa-app/master/build/3.png">](https://github.com/4LOOPph/tessa-app/releases)
+
+**Mobile App**
+----------
 
 ![enter image description here](http://4loopph.github.io/projects/projects/tessa-landing-page/assets/phoneTessa.png)
 
